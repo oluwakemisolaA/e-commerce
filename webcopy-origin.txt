@@ -1,0 +1,1628 @@
+Uri: https://fonts.googleapis.com/css2?family=Caveat&family=Poppins:wght@400;500;600;700;900&family=Roboto:wght@400;500&display=swap
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SII.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SII.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/404.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\404.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/about.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\about.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\images\ui-icons_444444_256x240.png.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\images\ui-icons_555555_256x240.png.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\images\ui-icons_777620_256x240.png.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\images\ui-icons_777777_256x240.png.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\images\ui-icons_cc0000_256x240.png.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\images\ui-icons_ffffff_256x240.png.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/jquery-ui.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/meanmenu.min.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\meanmenu.min.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/css/style.css
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\css\style.css
+Content Type: text/css
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/bg1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/breadcrumb.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\breadcrumb.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/delivery-img.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\delivery-img.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/gridbg1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\gridbg1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/gridbg2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\gridbg2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/gridbg3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\gridbg3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/gridbg4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\gridbg4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/gridbg6.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\gridbg6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/home3bg.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\home3bg.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/bg/ice-hero.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\bg\ice-hero.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/b-1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\b-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/b-2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\b-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/b-3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\b-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/b-shape.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\b-shape.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/b-shape1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\b-shape1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/blog1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/blog2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/blog3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/blog4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/blog5.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/blog6.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\blog6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/blog7.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\blog7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/blog/user.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\blog\user.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/22.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\22.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/23.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\23.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/24.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\24.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/25.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\25.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/26.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\26.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/5.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/bike.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\bike.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/chef.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\chef.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery5.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery6.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery7.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery8.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gallery9.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gallery9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gm1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gm1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gm2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gm2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gm3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gm3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gm4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gm4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gm5.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gm5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/gm6.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\gm6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/grid1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\grid1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/grid2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\grid2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/grid4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\grid4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/grid5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\grid5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/single-portfolio1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\single-portfolio1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/single-portfolio2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\single-portfolio2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/single-portfolio3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\single-portfolio3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/gallery/single-portfolio4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\gallery\single-portfolio4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/c1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\c1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/c2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\c2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/c3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\c3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/f-2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\f-2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/f-3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\f-3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/f-4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\f-4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/facebook.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\facebook.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/inst.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\inst.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/linkdin.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\linkdin.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/pbadge.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\pbadge.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/sig.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\sig.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/icons/twitter.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\icons\twitter.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/21.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\21.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/31.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\31.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/32.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\32.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/37.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\37.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/404.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\404.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/7.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\7.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/8.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\8.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/9.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\9.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/about-ice-1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\about-ice-1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/about-ice-2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\about-ice-2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/about-ice-3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\about-ice-3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/about-ice-4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\about-ice-4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/appstore.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\appstore.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/br1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\br1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/br2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\br2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/br3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\br3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/dblburger.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\dblburger.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/dr1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\dr1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/dr2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\dr2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/dr3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\dr3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/dr4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\dr4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/dr5.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\dr5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/dr6.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\dr6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/foo4-vec.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\foo4-vec.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/foo4-vec2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\foo4-vec2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/foo4-vec3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\foo4-vec3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/foo4-vec4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\foo4-vec4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/googlestore.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\googlestore.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/h31.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\h31.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/h32.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\h32.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htbg1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htbg1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htcane.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htcane.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/hticon1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\hticon1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htimg1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htimg1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htimg2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htimg2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htjuice.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htjuice.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htleaf.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htleaf.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htleaf2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htleaf2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape10.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape10.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape11.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape11.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape12.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape12.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape13.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape13.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape14.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape14.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape15.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape15.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape16.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape16.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape17.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape17.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape18.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape18.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape19.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape19.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape20.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape20.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape21.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape21.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape22.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape22.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape23.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape23.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape24.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape24.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape25.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape25.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape26.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape26.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape27.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape27.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape28.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape28.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape29.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape29.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape30.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape30.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape7.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape7.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape8.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape8.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/htshape9.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\htshape9.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-bg1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-brand1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-brand1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-brand2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-brand2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-brand3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-brand3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-brand4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-brand4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-brand5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-brand5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-brand6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-brand6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-brand7.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-brand7.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-cont-shape.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-cont-shape.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-fea1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-fea1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-fea2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-fea2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-gal1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-gal1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-gal2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-gal2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-gal3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-gal3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-gal4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-gal4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-gal5.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-gal5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-gal6.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-gal6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-icon1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-icon1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-icon2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-icon2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-icon3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-icon3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-icon4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-icon4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-icon5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-icon5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-icon6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-icon6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-icon7.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-icon7.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-icon8.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-icon8.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-slide1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-slide1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-slide2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-slide2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-slide3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-slide3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-slide4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-slide4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-testi1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-testi1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-testi2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-testi2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-truck.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-truck.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-user1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-user1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-user2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-user2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ice-vdo.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ice-vdo.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ins1.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ins1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/ins4.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\ins4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/inst2.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\inst2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/inst3.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\inst3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/payment.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\payment.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/payment2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\payment2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/payment3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\payment3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/img/straw.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\img\straw.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/logo/logo.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/logo/logo2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\logo\logo2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/logo/logo3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\logo\logo3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/logo/logo4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\logo\logo4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/bleft.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\bleft.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/bn1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\bn1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/bn2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\bn2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/br1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\br1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/br2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\br2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/br3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\br3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/br4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\br4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/br5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\br5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/br6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\br6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/burger-promo.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\burger-promo.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/burger.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\burger.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/c1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\c1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/c2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\c2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/c3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\c3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/chicken-banner.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\chicken-banner.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/chicken.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\chicken.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/combo.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\combo.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/drinks.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\drinks.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/drinks2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\drinks2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/fm1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\fm1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/fm2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\fm2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/fm3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\fm3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/fm4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\fm4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/menu1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\menu1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/menu2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\menu2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/menu3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\menu3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/menu4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\menu4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/mg2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\mg2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/mi-1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\mi-1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/mi-2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\mi-2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/mi-3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\mi-3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/mi-4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\mi-4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/mi-5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\mi-5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/mi-6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\mi-6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pd1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pd1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pd2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pd2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pd3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pd3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pd4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pd4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pd5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pd5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pd6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pd6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pd7.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pd7.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pd8.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pd8.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/piz1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\piz1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/piz2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\piz2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/piz3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\piz3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/piz4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\piz4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/piz5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\piz5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/piz6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\piz6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pizza.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pizza.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pm1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pm1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pm2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pm2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pm3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pm3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pm4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pm4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pm5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pm5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pn3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pn3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pn4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pn4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/pn5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\pn5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/single-portfolio.jpg
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\single-portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc7.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc7.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc8.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc8.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/menu-item/tc9.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\menu-item\tc9.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/10.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\10.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/11.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\11.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/113.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\113.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/12.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\12.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/13.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\13.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/14.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\14.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/15.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\15.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/16.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\16.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/17.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\17.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/18.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\18.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/22.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\22.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/24.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\24.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/25.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\25.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/26.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\26.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/27.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\27.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/28.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\28.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/30.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\30.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/33.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\33.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/34.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\34.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/35.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\35.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/36.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\36.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/37.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\37.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/38.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\38.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/39.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\39.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/40.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\40.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/41.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\41.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/42.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\42.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/5.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\5.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/6.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\6.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/7.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\7.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/9.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\9.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/bbr.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\bbr.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/bbs.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\bbs.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/brr.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\brr.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/bshape1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\bshape1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/bshape2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\bshape2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/capsicam.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\capsicam.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/donar.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\donar.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/f-shape-1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\f-shape-1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/f-shape-2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\f-shape-2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/f-shape-7.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\f-shape-7.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/fshape1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\fshape1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/ice-vec.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\ice-vec.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/layer.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\layer.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/layer2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\layer2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/Leaf.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\Leaf.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/Leaf2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\Leaf2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/Leaf3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\Leaf3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/Leaf4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\Leaf4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/leaves.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\leaves.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/onions.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\onions.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/pizza-s1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\pizza-s1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/redtpmatto.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\redtpmatto.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/sale.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\sale.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/sauce.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\sauce.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/scatter.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\scatter.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/sm-tomatto.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\sm-tomatto.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/t-slice.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\t-slice.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/tomato.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\tomato.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/transparent1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\transparent1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/transparent2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\transparent2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/shapes/triple.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\shapes\triple.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/team/t1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\team\t1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/team/t2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\team\t2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/team/t3.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\team\t3.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/team/t4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\team\t4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/testimonial/test-4.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\testimonial\test-4.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/testimonial/testi-1.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\testimonial\testi-1.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/images/testimonial/testi-2.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\images\testimonial\testi-2.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/main.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/countdown.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\countdown.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/counterup.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/easing.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\easing.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/jquery-ui.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/jquery.meanmenu.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\jquery.meanmenu.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/slick.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\slick.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/waypoints.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/js/vendor/wow.min.js
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\js\vendor\wow.min.js
+Content Type: application/javascript
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/blog-single.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\blog-single.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/blog.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\blog.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/checkout.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\checkout.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/contact.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\contact.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/favicon.png
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\favicon.png
+Content Type: image/png
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/food-page.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\food-page.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/food-page2.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\food-page2.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/gallery.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\gallery.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/homepage2.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\homepage2.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/homepage3.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\homepage3.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/homepage4.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\homepage4.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/index.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\index.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/login.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\login.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/menu.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\menu.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/profile.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\profile.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/shopping-cart.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\shopping-cart.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/signup.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\signup.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/single-dish.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\single-dish.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/single-food.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\single-food.html
+Content Type: text/html
+
+Uri: https://html.softtechitltd.com/khadyo/khadyo/wishlist.html
+File Name: C:\Downloaded Web Sites\html.softtechitltd.com\khadyo\khadyo\wishlist.html
+Content Type: text/html
+

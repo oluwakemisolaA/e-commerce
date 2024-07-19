@@ -1,0 +1,2492 @@
+Uri: https://drora-html.vercel.app/
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/app-calender.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\app-calender.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/app-profile.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\app-profile.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/1.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\1.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/1.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\1.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/11.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\11.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/2.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\2.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/3.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\3.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/4.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\4.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/5.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\5.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/6.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\6.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/7.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\7.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/8.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\8.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/avatar/avatar-media.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\avatar\avatar-media.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/background/error-bg.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\background\error-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/blog/1.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/blog/2.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/blog/3.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/blog/4.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/card/1.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\card\1.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/card/2.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\card\2.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/card/3.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\card\3.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/grid/10.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\grid\10.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/grid/11.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\grid\11.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/grid/12.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\grid\12.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/grid/4.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\grid\4.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/grid/6.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\grid\6.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/grid/7.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\grid\7.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/grid/9.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\grid\9.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/11.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\11.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/14.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\14.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/15.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\15.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/18.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\18.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/19.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\19.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/2.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\2.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/blog-image-10.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\blog-image-10.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/blog-image-5.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\blog-image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/blog-image-7.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\blog-image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/blog-image-8.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\blog-image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/coffee-image-1.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\coffee-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/coffee-image-4.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\coffee-image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/coffee-image-5.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\coffee-image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/coffee-image-6.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\coffee-image-6.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/food-image-4.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\food-image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu10.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu10.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu11.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu11.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu12.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu12.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu13.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu13.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu14.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu14.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu15.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu15.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu16.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu16.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu5.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu5.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu6.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu6.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/granny-menu7.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\granny-menu7.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/menu/menu1.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\menu1.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/menu/menu2.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\menu2.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/menu/menu3.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\menu3.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/menu/menu4.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\menu4.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/menu/menu5.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\menu5.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/menu/menu6.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\menu\menu6.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/small/small-1.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\small\small-1.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/small/small-2.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\small\small-2.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/small/small-3.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\small\small-3.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/svg/bank.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\svg\bank.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/assets/images/svg/paypal.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\svg\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/assets/images/user/1.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\user\1.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/images/users/1.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\users\1.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/users/2.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\users\2.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/users/3.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\users\3.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/users/4.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\users\4.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/users/5.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\users\5.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/images/users/6.jpg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\images\users\6.jpg
+Content Type: image/jpeg
+
+Uri: https://drora-html.vercel.app/assets/plugins/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/block-ui/jquery.blockUI.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\block-ui\jquery.blockUI.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-daterangepicker/daterangepicker.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-daterangepicker/daterangepicker.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-daterangepicker\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-select/dist/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-select\dist\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-select/dist/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-select\dist\js\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-tagsinput/css/bootstrap-tagsinput.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-tagsinput\css\bootstrap-tagsinput.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-tagsinput/js/bootstrap-tagsinput.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-tagsinput\js\bootstrap-tagsinput.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-touchspin/css/jquery.bootstrap-touchspin.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-touchspin\css\jquery.bootstrap-touchspin.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap-touchspin/js/jquery.bootstrap-touchspin.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap-touchspin\js\jquery.bootstrap-touchspin.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/bootstrap4-notify/bootstrap-notify.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\bootstrap4-notify\bootstrap-notify.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/chart.js/Chart.bundle.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\chart.js\Chart.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\chartist-plugin-tooltips\js\chartist-plugin-tooltip.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/chartist/css/chartist.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\chartist\css\chartist.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/chartist/js/chartist.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\chartist\js\chartist.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/circle-progress/circle-progress.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\circle-progress\circle-progress.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/clipboard/clipboard.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\clipboard\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/clockpicker/css/bootstrap-clockpicker.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\clockpicker\css\bootstrap-clockpicker.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/clockpicker/js/bootstrap-clockpicker.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\clockpicker\js\bootstrap-clockpicker.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/common/common.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\common\common.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/d3v3/index.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\d3v3\index.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/datamaps/datamaps.world.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datamaps\datamaps.world.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/datatables/css/jquery.dataTables.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datatables\css\jquery.dataTables.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/datatables/images/sort_asc.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datatables\images\sort_asc.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/datatables/images/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datatables\images\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/datatables/images/sort_both.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datatables\images\sort_both.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/datatables/images/sort_desc.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datatables\images\sort_desc.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/datatables/images/sort_desc_disabled.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datatables\images\sort_desc_disabled.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/datatables/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datatables\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/datedropper/datedropper.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datedropper\datedropper.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/datedropper/datedropper.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datedropper\datedropper.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/datedropper/dd-icon/dd-icon.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datedropper\dd-icon\dd-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/assets/plugins/datedropper/dd-icon/dd-icon.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datedropper\dd-icon\dd-icon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/assets/plugins/datedropper/dd-icon/dd-icon.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datedropper\dd-icon\dd-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/assets/plugins/datedropper/dd-icon/dd-icon.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datedropper\dd-icon\dd-icon.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/assets/plugins/datedropper/dd-icon/dd-icon.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\datedropper\dd-icon\dd-icon.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/assets/plugins/dropify/dist/css/dropify.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\dropify\dist\css\dropify.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/dropify/dist/fonts/dropify.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\dropify\dist\fonts\dropify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/assets/plugins/dropify/dist/fonts/dropify.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\dropify\dist\fonts\dropify.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/assets/plugins/dropify/dist/fonts/dropify.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\dropify\dist\fonts\dropify.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/assets/plugins/dropify/dist/fonts/dropify.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\dropify\dist\fonts\dropify.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/assets/plugins/dropify/dist/js/dropify.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\dropify\dist\js\dropify.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/easy-pie-chart/jquery.easypiechart.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\easy-pie-chart\jquery.easypiechart.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/flot-spline/jquery.flot.spline.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\flot-spline\jquery.flot.spline.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/flot/jquery.flot.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\flot\jquery.flot.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/flot/jquery.flot.pie.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\flot\jquery.flot.pie.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/flot/jquery.flot.resize.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\flot\jquery.flot.resize.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/footable/css/footable.bootstrap.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\footable\css\footable.bootstrap.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/footable/js/footable.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\footable\js\footable.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/fullcalendar/css/fullcalendar.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\fullcalendar\css\fullcalendar.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/fullcalendar/js/fullcalendar.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\fullcalendar\js\fullcalendar.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/highlightjs/highlight.pack.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\highlightjs\highlight.pack.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/highlightjs/styles/darcula.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\highlightjs\styles\darcula.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/innoto-switchery/dist/switchery.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\innoto-switchery\dist\switchery.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/innoto-switchery/dist/switchery.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\innoto-switchery\dist\switchery.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jasny-bootstrap/dist/css/jasny-bootstrap.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jasny-bootstrap\dist\css\jasny-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/jasny-bootstrap/dist/js/jasny-bootstrap.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jasny-bootstrap\dist\js\jasny-bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-asColor/jquery-asColor.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-asColor\jquery-asColor.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-asColorPicker/css/asColorPicker.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-asColorPicker\css\asColorPicker.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-asColorPicker/images/alpha.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-asColorPicker\images\alpha.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-asColorPicker/images/hue.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-asColorPicker\images\hue.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-asColorPicker/images/saturation.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-asColorPicker\images\saturation.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-asColorPicker/images/transparent.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-asColorPicker\images\transparent.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-asColorPicker/js/jquery-asColorPicker.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-asColorPicker\js\jquery-asColorPicker.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-asGradient/jquery-asGradient.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-asGradient\jquery-asGradient.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-bootgrid/dist/jquery.bootgrid.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-bootgrid\dist\jquery.bootgrid.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-bootgrid/dist/jquery.bootgrid.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-bootgrid\dist\jquery.bootgrid.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-sparkline/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-sparkline\jquery.sparkline.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-steps/build/jquery.steps.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-steps\build\jquery.steps.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-steps/css/jquery.steps.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-steps\css\jquery.steps.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery-validation/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery-validation\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jquery.counterup/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jquery.counterup\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jqueryui/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jqueryui\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jqvmap/css/jqvmap.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jqvmap\css\jqvmap.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/jqvmap/js/jquery.vmap.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jqvmap\js\jquery.vmap.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jqvmap/js/jquery.vmap.usa.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jqvmap\js\jquery.vmap.usa.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jqvmap/js/jquery.vmap.world.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jqvmap\js\jquery.vmap.world.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/jsgrid/css/jsgrid-theme.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jsgrid\css\jsgrid-theme.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/jsgrid/css/jsgrid.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jsgrid\css\jsgrid.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/jsgrid/js/jsgrid.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\jsgrid\js\jsgrid.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/metismenu/css/metisMenu.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\metismenu\css\metisMenu.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/moment/moment.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\moment\moment.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/morris/morris.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\morris\morris.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/nestable2/css/jquery.nestable.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\nestable2\css\jquery.nestable.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/nestable2/js/jquery.nestable.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\nestable2\js\jquery.nestable.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/nouislider/nouislider.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/nouislider/nouislider.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\nouislider\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/owl.carousel/dist/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\owl.carousel\dist\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/owl.carousel/dist/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\owl.carousel\dist\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\peity\jquery.peity.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/pg-calendar/css/pignose.calendar.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pg-calendar\css\pignose.calendar.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/pg-calendar/fonts/pignose.calendar.eot?gpa4vl
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pg-calendar\fonts\pignose.calendar.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/assets/plugins/pg-calendar/fonts/pignose.calendar.svg?gpa4vl
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pg-calendar\fonts\pignose.calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/assets/plugins/pg-calendar/fonts/pignose.calendar.ttf?gpa4vl
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pg-calendar\fonts\pignose.calendar.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/assets/plugins/pg-calendar/fonts/pignose.calendar.woff?gpa4vl
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pg-calendar\fonts\pignose.calendar.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/assets/plugins/pg-calendar/js/pignose.calendar.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pg-calendar\js\pignose.calendar.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/pickadate/picker.date.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pickadate\picker.date.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/pickadate/picker.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pickadate\picker.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/pickadate/picker.time.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pickadate\picker.time.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/pickadate/themes/default.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pickadate\themes\default.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/pickadate/themes/default.date.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\pickadate\themes\default.date.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/raphael/raphael.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\raphael\raphael.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/select2/js/select2.full.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\select2\js\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/summernote/font/summernote.eot?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\summernote\font\summernote.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/assets/plugins/summernote/font/summernote.ttf?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\summernote\font\summernote.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/assets/plugins/summernote/font/summernote.woff?4c7e83314b68cfa6a0d18a8b4690044b
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\summernote\font\summernote.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/assets/plugins/summernote/js/summernote.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\summernote\js\summernote.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/summernote/summernote.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\summernote\summernote.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/sweetalert2/dist/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\sweetalert2\dist\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/sweetalert2/dist/sweetalert2.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\sweetalert2\dist\sweetalert2.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/timepicki/css/timepicki.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\timepicki\css\timepicki.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/timepicki/images/arrow.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\timepicki\images\arrow.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/timepicki/images/top_arr.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\timepicki\images\top_arr.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/timepicki/js/timepicki.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\timepicki\js\timepicki.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/toastr/css/toastr.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\toastr\css\toastr.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/topojson/topojson.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\topojson\topojson.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/typeahead.js/dist/bloodhound.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\typeahead.js\dist\bloodhound.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/typeahead.js/dist/typeahead.bundle.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\typeahead.js\dist\typeahead.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/typeahead.js/dist/typeahead.jquery.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\typeahead.js\dist\typeahead.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/waypoints/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\waypoints\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/webticker/jquery.webticker.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\webticker\jquery.webticker.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/wnumb/wNumb.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\wnumb\wNumb.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/assets/plugins/x-editable/dist/bootstrap3-editable/css/bootstrap-editable.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\x-editable\dist\bootstrap3-editable\css\bootstrap-editable.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/assets/plugins/x-editable/dist/bootstrap3-editable/img/clear.png
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\x-editable\dist\bootstrap3-editable\img\clear.png
+Content Type: image/png
+
+Uri: https://drora-html.vercel.app/assets/plugins/x-editable/dist/bootstrap3-editable/img/loading.gif
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\x-editable\dist\bootstrap3-editable\img\loading.gif
+Content Type: image/gif
+
+Uri: https://drora-html.vercel.app/assets/plugins/x-editable/dist/bootstrap3-editable/js/bootstrap-editable.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\assets\plugins\x-editable\dist\bootstrap3-editable\js\bootstrap-editable.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/charts.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\charts.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/components.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\components.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/css/style.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\css\style.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/dashboard-customer.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\dashboard-customer.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/dashboard-employee.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\dashboard-employee.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/email-compose.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\email-compose.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/email-inbox.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\email-inbox.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/email-read.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\email-read.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/forms.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\forms.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/icons/cryptocoins/css/cryptocoins-colors.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\cryptocoins\css\cryptocoins-colors.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/cryptocoins/css/cryptocoins.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\cryptocoins\css\cryptocoins.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/cryptocoins/fonts/cryptocoins.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\cryptocoins\fonts\cryptocoins.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/cryptocoins/fonts/cryptocoins.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\cryptocoins\fonts\cryptocoins.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/cryptocoins/fonts/cryptocoins.woff2
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\cryptocoins\fonts\cryptocoins.woff2
+Content Type: font/woff2
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flag-icon.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flag-icon.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ad.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ad.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ae.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ae.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/af.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\af.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ag.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ag.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ai.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ai.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/al.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\al.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/am.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\am.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ao.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ao.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/aq.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\aq.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ar.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ar.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/as.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\as.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/at.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\at.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/au.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\au.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/aw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\aw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ax.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ax.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/az.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\az.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ba.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ba.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bb.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bb.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bd.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bd.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/be.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\be.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bf.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bf.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bh.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bh.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bi.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bi.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bj.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bj.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bl.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bl.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bo.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bo.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bq.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bq.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/br.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\br.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bs.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bs.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bt.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bt.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bv.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bv.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/by.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\by.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/bz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\bz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ca.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ca.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cc.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cc.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cd.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cd.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cf.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cf.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ch.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ch.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ci.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ci.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ck.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ck.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cl.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cl.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/co.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\co.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cu.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cu.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cv.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cv.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cx.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cx.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cy.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cy.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/cz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\cz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/de.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\de.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/dj.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\dj.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/dk.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\dk.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/dm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\dm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/do.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\do.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/dz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\dz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ec.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ec.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ee.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ee.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/eg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\eg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/eh.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\eh.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/er.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\er.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/es.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\es.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/et.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\et.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/fi.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\fi.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/fj.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\fj.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/fk.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\fk.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/fm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\fm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/fo.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\fo.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/fr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ga.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ga.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gb.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gb.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gd.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gd.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ge.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ge.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gf.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gf.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gh.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gh.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gi.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gi.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gl.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gl.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gp.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gp.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gq.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gq.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gs.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gs.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gt.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gt.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gu.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gu.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/gy.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\gy.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/hk.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\hk.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/hm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\hm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/hn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\hn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/hr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\hr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ht.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ht.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/hu.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\hu.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/id.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\id.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ie.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ie.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/il.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\il.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/im.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\im.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/in.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\in.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/io.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\io.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/iq.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\iq.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ir.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ir.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/is.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\is.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/it.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\it.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/je.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\je.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/jm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\jm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/jo.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\jo.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/jp.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ke.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ke.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/kg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\kg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/kh.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\kh.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ki.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ki.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/km.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\km.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/kn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\kn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/kp.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\kp.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/kr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\kr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/kw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\kw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ky.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ky.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/kz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\kz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/la.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\la.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/lb.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\lb.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/lc.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\lc.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/li.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\li.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/lk.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\lk.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/lr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\lr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ls.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ls.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/lt.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\lt.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/lu.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\lu.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/lv.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\lv.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ly.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ly.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ma.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ma.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mc.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mc.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/md.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\md.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/me.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\me.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mf.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mf.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mh.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mh.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mk.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mk.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ml.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ml.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mo.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mo.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mp.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mp.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mq.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mq.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ms.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ms.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mt.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mt.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mu.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mu.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mv.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mv.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mx.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mx.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/my.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\my.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/mz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\mz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/na.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\na.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/nc.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\nc.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ne.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ne.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/nf.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\nf.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ng.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ng.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ni.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ni.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/nl.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\nl.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/no.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\no.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/np.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\np.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/nr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\nr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/nu.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\nu.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/nz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\nz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/om.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\om.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pa.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pa.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pe.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pe.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pf.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pf.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ph.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ph.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pk.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pk.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pl.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pl.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ps.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ps.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pt.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pt.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/pw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\pw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/py.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\py.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/qa.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\qa.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/re.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\re.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ro.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ro.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/rs.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\rs.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ru.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ru.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/rw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\rw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sa.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sa.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sb.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sb.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sc.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sc.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sd.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sd.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/se.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\se.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sh.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sh.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/si.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\si.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sj.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sj.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sk.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sk.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sl.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sl.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/so.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\so.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ss.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ss.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/st.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\st.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sv.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sv.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sx.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sx.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sy.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sy.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/sz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\sz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tc.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tc.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/td.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\td.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tf.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tf.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/th.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\th.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tj.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tj.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tk.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tk.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tl.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tl.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/to.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\to.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tr.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tt.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tt.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tv.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tv.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/tz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\tz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ua.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ua.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ug.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ug.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/um.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\um.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/us.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\us.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/uy.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\uy.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/uz.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\uz.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/va.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\va.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/vc.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\vc.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ve.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ve.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/vg.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\vg.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/vi.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\vi.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/vn.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\vn.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/vu.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\vu.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/wf.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\wf.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ws.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ws.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/ye.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\ye.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/yt.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\yt.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/za.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\za.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/zm.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\zm.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/flag-icon-css/flags/zw.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\flag-icon-css\flags\zw.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/font-awesome/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\font-awesome\fonts\fontawesome-webfont3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/font-awesome/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\font-awesome\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/font-awesome/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\font-awesome\fonts\fontawesome-webfont3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\font-awesome\fonts\fontawesome-webfont3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://drora-html.vercel.app/icons/font-awesome/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\font-awesome\fonts\fontawesome-webfont3e6e.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/font-awesome/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\font-awesome\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/ionicons/css/ionicons.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\ionicons\css\ionicons.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/ionicons/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/ionicons/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/ionicons/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\ionicons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/ionicons/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\ionicons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-arrows-10.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-arrows-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-arrows-10.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-arrows-10.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-arrows-10.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-arrows-10.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-arrows-10.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-arrows-10.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-arrows-10d41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-arrows-10d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-10.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-10.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-10.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-10.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-10.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-10.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-10.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-10d41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-10d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-elaboration-10.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-elaboration-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-elaboration-10.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-elaboration-10.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-elaboration-10.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-elaboration-10.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-elaboration-10.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-elaboration-10.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-basic-elaboration-10d41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-basic-elaboration-10d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-ecommerce-10.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-ecommerce-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-ecommerce-10.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-ecommerce-10.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-ecommerce-10.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-ecommerce-10.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-ecommerce-10.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-ecommerce-10.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-ecommerce-10d41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-ecommerce-10d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-music-10.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-music-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-music-10.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-music-10.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-music-10.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-music-10.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-music-10.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-music-10.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-music-10d41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-music-10d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-software-10.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-software-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-software-10.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-software-10.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-software-10.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-software-10.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-software-10.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-software-10.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-software-10d41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-software-10d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-weather-10.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-weather-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-weather-10.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-weather-10.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-weather-10.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-weather-10.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-weather-10.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-weather-10.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/fonts/linea-weather-10d41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\fonts\linea-weather-10d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linea-icons/linea.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linea-icons\linea.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/linear-icons/fonts/Linearicons-Free.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linear-icons\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linear-icons/fonts/Linearicons-Free.eot?w118d
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linear-icons\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/linear-icons/fonts/Linearicons-Free.svg?w118d
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linear-icons\fonts\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/linear-icons/fonts/Linearicons-Free.ttf?w118d
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linear-icons\fonts\Linearicons-Free.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/linear-icons/fonts/Linearicons-Free.woff2?w118d
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linear-icons\fonts\Linearicons-Free.woff2
+Content Type: font/woff2
+
+Uri: https://drora-html.vercel.app/icons/linear-icons/fonts/Linearicons-Free.woff?w118d
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linear-icons\fonts\Linearicons-Free.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/linear-icons/style.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\linear-icons\style.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\material-design-iconic-font\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?v=2.4.85
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg?v=2.4.85
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf?v=2.4.85
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2?v=2.4.85
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://drora-html.vercel.app/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff?v=2.4.85
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/material-design-iconic-font/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\material-design-iconic-font\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/pe-icon-set-weather/css/pe-icon-set-weather.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\pe-icon-set-weather\css\pe-icon-set-weather.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/pe-icon-set-weather/fonts/pe-icon-set-weather.eot?nlruav
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\pe-icon-set-weather\fonts\pe-icon-set-weather.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/pe-icon-set-weather/fonts/pe-icon-set-weather.svg?nlruav
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\pe-icon-set-weather\fonts\pe-icon-set-weather.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/pe-icon-set-weather/fonts/pe-icon-set-weather.ttf?nlruav
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\pe-icon-set-weather\fonts\pe-icon-set-weather.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/pe-icon-set-weather/fonts/pe-icon-set-weather.woff?nlruav
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\pe-icon-set-weather\fonts\pe-icon-set-weather.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/simple-line-icons/css/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\simple-line-icons\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.eot?-i3a2kk
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.svg?-i3a2kk
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.ttf?-i3a2kk
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.woff2?-i3a2kk
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.woff2
+Content Type: font/woff2
+
+Uri: https://drora-html.vercel.app/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.woff?-i3a2kk
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/simple-line-icons/fonts/Simple-Line-Iconsd41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\simple-line-icons\fonts\Simple-Line-Iconsd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/themify-icons/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\themify-icons\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/themify-icons/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\themify-icons\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/themify-icons/fonts/themify9f24.eot?-fvbane
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\themify-icons\fonts\themify9f24.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/themify-icons/fonts/themify9f24.svg?-fvbane
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\themify-icons\fonts\themify9f24.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/themify-icons/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\themify-icons\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/themify-icons/themify-icons.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\themify-icons\themify-icons.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/weather-icons/css/weather-icons.min.css
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\weather-icons\css\weather-icons.min.css
+Content Type: text/css
+
+Uri: https://drora-html.vercel.app/icons/weather-icons/fonts/weathericons-regular-webfont.eot
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\weather-icons\fonts\weathericons-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/weather-icons/fonts/weathericons-regular-webfont.eot?
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\weather-icons\fonts\weathericons-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://drora-html.vercel.app/icons/weather-icons/fonts/weathericons-regular-webfont.svg
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\weather-icons\fonts\weathericons-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://drora-html.vercel.app/icons/weather-icons/fonts/weathericons-regular-webfont.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\weather-icons\fonts\weathericons-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://drora-html.vercel.app/icons/weather-icons/fonts/weathericons-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\weather-icons\fonts\weathericons-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://drora-html.vercel.app/icons/weather-icons/fonts/weathericons-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\icons\weather-icons\fonts\weathericons-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://drora-html.vercel.app/index.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/intro-cart.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\intro-cart.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/intro-checkout.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\intro-checkout.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/intro-wishlist.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\intro-wishlist.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/js/cart.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\cart.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/custom.min.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\custom.min.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/dashboard/checkout-script.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\dashboard\checkout-script.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/dashboard/dashboard-1.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\dashboard\dashboard-1.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/dashboard/dashboard-2.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\dashboard\dashboard-2.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/dashboard/dashboard-3.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\dashboard\dashboard-3.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/dashboard/dashboard-4.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\dashboard\dashboard-4.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/dashboard/dashboard-5.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\dashboard\dashboard-5.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/dashboard/intro-index.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\dashboard\intro-index.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/dashboard/wishlist-script.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\dashboard\wishlist-script.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/bootstrap-tagsinput-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\bootstrap-tagsinput-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/bootstrap-touchpin-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\bootstrap-touchpin-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/bs-daterange-picker-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\bs-daterange-picker-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/charts-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\charts-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/clock-picker-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\clock-picker-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/components-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\components-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/datatables.init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\datatables.init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/datedropper-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\datedropper-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/dropify-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\dropify-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/footable-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\footable-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/jquery-asColorPicker.init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\jquery-asColorPicker.init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/jquery-steps-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\jquery-steps-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/jquery.bootgrid-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\jquery.bootgrid-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/jsgrid-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\jsgrid-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/material-date-picker-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\material-date-picker-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/pickadate-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\pickadate-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/select2-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\select2-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/timepicki-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\timepicki-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/plugins-init/widgets-script-init.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\plugins-init\widgets-script-init.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/quixnav.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\quixnav.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/settings.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\settings.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/js/styleSwitcher.js
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\js\styleSwitcher.js
+Content Type: application/javascript
+
+Uri: https://drora-html.vercel.app/layout-blank.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-blank.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-boxed.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-boxed.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-dark.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-dark.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-fixed-header.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-fixed-header.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-fixed-sidebar.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-fixed-sidebar.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-horizontal-nav.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-horizontal-nav.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-light.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-light.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-one-column.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-one-column.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-rtl.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-rtl.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-two-column.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-two-column.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-wide-boxed.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-wide-boxed.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/layout-wide.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\layout-wide.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/page-error-400.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\page-error-400.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/page-error-403.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\page-error-403.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/page-error-404.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\page-error-404.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/page-error-500.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\page-error-500.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/page-error-503.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\page-error-503.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/page-login.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\page-login.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/page-register.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\page-register.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/page-user-lock.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\page-user-lock.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/restaurant-custommer.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\restaurant-custommer.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/restaurant-employees.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\restaurant-employees.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/restaurant-menus.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\restaurant-menus.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/restaurant-offers.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\restaurant-offers.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/restaurant-order.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\restaurant-order.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/restaurant-packages.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\restaurant-packages.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/restaurant-reservation.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\restaurant-reservation.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/tables.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\tables.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/ui-bootstrap.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\ui-bootstrap.html
+Content Type: text/html
+
+Uri: https://drora-html.vercel.app/widget-basic.html
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\widget-basic.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\drora-html.vercel.app\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+Content Type: font/ttf
+
